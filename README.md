@@ -6,4 +6,5 @@ Install AWS CLI
 $brew install awscli
 
 $aws --version
+
 aws-cli/1.16.30 Python/3.7.0 Darwin/17.6.0 botocore/1.12.20
